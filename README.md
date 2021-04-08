@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+<a href="https://github.com/heschmat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heschmat&theme=tokyonight&hide_langs_below=10&langs_count=7&hide=rich%20text%20format,roff" />
+</a>
+
+
+<a href="https://github.com/heschmat">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=heschmat&show_icons=true&count_private=true&hide=prs,contribs,issues&theme=tokyonight" alt="Mat's github stats"/>
+</a>
+---
